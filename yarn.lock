@@ -128,15 +128,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@flagship.io/js-sdk@npm:^5.1.2":
-  version: 5.1.2
-  resolution: "@flagship.io/js-sdk@npm:5.1.2"
+"@flagship.io/js-sdk@npm:^5.1.6":
+  version: 5.1.6
+  resolution: "@flagship.io/js-sdk@npm:5.1.6"
   dependencies:
     events: "npm:^3.3.0"
     follow-redirects: "npm:^1.15.9"
     node-abort-controller: "npm:^3.1.1"
     node-fetch: "npm:^2.6.7"
-  checksum: 10c0/27e81d6b0b1088a5752ee2f0324022aba6415337a653d97f2dee1b18d4670dedb60757d2f078aa686d773e500a33f85f2163138078d36402d8c6518d99eae871
+  checksum: 10c0/c309bf3a2def7695e8fd733b0e9544644be27c1487c829356706e778961c535c8b33e14f127afe8ab40051cad41f4c2081a571425a1a60bed03c2e8e8d9e7d3e
   languageName: node
   linkType: hard
 
@@ -1882,12 +1882,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flagship-vercel-function-example@workspace:.":
+"flagship-vercel-edge-function-example@workspace:.":
   version: 0.0.0-use.local
-  resolution: "flagship-vercel-function-example@workspace:."
+  resolution: "flagship-vercel-edge-function-example@workspace:."
   dependencies:
     "@eslint/eslintrc": "npm:^3"
-    "@flagship.io/js-sdk": "npm:^5.1.2"
+    "@flagship.io/js-sdk": "npm:^5.1.6"
     "@types/node": "npm:^20"
     "@types/react": "npm:^19"
     "@types/react-dom": "npm:^19"
