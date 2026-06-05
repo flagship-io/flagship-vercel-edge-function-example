@@ -11,7 +11,7 @@
   "dependencies": {
     "@flagship.io/js-sdk": "^5.1.6",
     "@vercel/edge-config": "^1.4.0",
-    "next": "15.3.4",
+    "next": "15.5.16",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
